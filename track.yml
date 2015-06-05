@@ -10,3 +10,5 @@ track:
         uuid: fff85617-e279-42f5-a459-293779989d53
         units:
         -   title: qux
+            uuid: d77f2fa6-58e8-489e-8a8f-1dbae2974472
+            lessons: []
