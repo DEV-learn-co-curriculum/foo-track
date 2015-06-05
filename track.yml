@@ -18,3 +18,6 @@ track:
                 -   title: Green Grocer
                     source: https://github.com/learn-co-curriculum/green_grocer
                     uuid: f296953d-d905-4ba7-a375-104332b4dbf1
+    -   title: quxx
+        uuid: 2a4688da-de96-48c6-81ff-c615c012b255
+        units: []
