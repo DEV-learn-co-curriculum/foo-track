@@ -8,4 +8,5 @@ track:
         units: []
     -   title: baz
         uuid: fff85617-e279-42f5-a459-293779989d53
-        units: []
+        units:
+        -   title: qux
