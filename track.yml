@@ -11,4 +11,10 @@ track:
         units:
         -   title: qux
             uuid: d77f2fa6-58e8-489e-8a8f-1dbae2974472
-            lessons: []
+            lessons:
+            -   title: yay
+                uuid: 0972df78-f15b-46bd-9323-be25446752eb
+                contents:
+                -   title: Green Grocer
+                    source: https://github.com/learn-co-curriculum/green_grocer
+                    uuid: f296953d-d905-4ba7-a375-104332b4dbf1
