@@ -3,5 +3,9 @@ track:
     title: Foo
     uuid: 55442a3d-21d4-4396-ab3b-80c3d84e1038
     topics:
-    - title: bar
-    - title: baz
+    -   title: bar
+        uuid: 10171706-4a28-4f04-8f15-51b5f5539af6
+        units: []
+    -   title: baz
+        uuid: fff85617-e279-42f5-a459-293779989d53
+        units: []
